@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning Java and Kotlin
 - 👯 I’m looking to collaborate on OpenSource projects
-- 💬 Ask me about Friends | Harry Potter | Marvel | Feminism
+- 💬 Ask me about Friends | Harry Potter | Marvel | Star Wars | Feminism
 - 📫 How to reach me: thamiresmachado.dev@gmail.com
 - 😄 Pronouns: She | her
 - ⚡ Fun fact: I'm an English Teacher who is currently changing to Web Development :) 
